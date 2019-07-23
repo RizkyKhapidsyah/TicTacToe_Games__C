@@ -1,0 +1,10 @@
+﻿  TicTacToe.c
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(73,11): warning C4473:  'scanf_s' : not enough arguments passed for format string
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(73,11): message :  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(73,11): message :  the missing variadic argument 2 is required by format string '%c'
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(73,11): message :  this argument is used as a buffer size
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(183,19): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(198,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(254,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(254,18): warning C4244: D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\TicTacToe.c(157) : warning C4715: 'negamax': not all control paths return a value
+  TicTacToe_Games__C.vcxproj -> D:\Rizky Hafitsyah's Documents\#LATIHAN\Pemrograman\C\TicTacToe_Games__C\Debug\TicTacToe_Games__C.exe
