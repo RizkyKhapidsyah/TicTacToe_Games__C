@@ -19,7 +19,7 @@ kotakTerisi = 0,
 giliranPertama = 0,
 pemenang = 0;
 
-char 	papan[9] = { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' },
+char papan[9] = { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' },
 player1,
 player2;
 
